@@ -20,7 +20,7 @@
  * THE SOFTWARE.
  */
 
-
+// testå
 import UIKit
 import UserNotifications
 import CoreLocation
